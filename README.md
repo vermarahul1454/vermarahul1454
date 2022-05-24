@@ -70,7 +70,8 @@ My passion is to make useful digital products. I like to be creative with techno
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set <img src="https://user-images.githubusercontent.com/73687578/169973097-077e1fef-2594-4f4e-b157-c319630cf355.png" />
+
 
 
 ### Programing language  
