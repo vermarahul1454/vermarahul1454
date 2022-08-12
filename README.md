@@ -31,7 +31,7 @@ I like to be creative with technology and have a keen eye for design and appreci
 
 ## Hey 👋, This is Rahul Verma
 [![Gmail Badge](https://img.shields.io/badge/-vermarahul1454@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vermarahul1454@gmail.com)](mailto:vermarahul1454@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rahulverma210545190-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulverma210545190/)](https://www.linkedin.com/in/rahulverma210545190/) [![Github Badge](https://img.shields.io/badge/-vermarahul1454-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vermarahul1454/)](https://www.github.com/vermarahul1454/) <p align='left'>My passion is to make useful digital products. I like to be creative with technology and have a keen eye for design and appreciate the importance of a clean and beautiful user-interface that engages the user.</p><p align='left'> You can view my resume <a href='drive.google.com/will_uplaod_later ' target=_blank><u>here</u>.</a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-rahulverma210545190-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulverma210545190/)](https://www.linkedin.com/in/rahulverma210545190/) [![Github Badge](https://img.shields.io/badge/-vermarahul1454-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vermarahul1454/)](https://www.github.com/vermarahul1454/) <p align='left'>My passion is to make useful digital products. I like to be creative with technology and have a keen eye for design and appreciate the importance of a clean and beautiful user-interface that engages the user.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1-VDfeWIOf0egl8kSphOh56Pu0X4Bfq20/view?usp=drivesdk' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vermarahul1454 alt=vermarahul1454 /> </p>
 
@@ -64,7 +64,7 @@ My passion is to make useful digital products. I like to be creative with techno
 - 📚 I’m addicted to learning and growing every day  
   
 
-- 📝 [Resume](http://example/com)  
+- 📝 [Resume]([http://example/com](https://drive.google.com/file/d/1-VDfeWIOf0egl8kSphOh56Pu0X4Bfq20/view?usp=drivesdk))  
   
 
 <br/>  
@@ -226,7 +226,7 @@ My passion is to make useful digital products. I like to be creative with techno
 - 📚 I’m addicted to learning and growing every day  
   
 
-- 📝 [Resume](http://example/com)  
+- 📝 [Resume](https://drive.google.com/file/d/1-VDfeWIOf0egl8kSphOh56Pu0X4Bfq20/view?usp=drivesdk)
   
 
 <br/>  
